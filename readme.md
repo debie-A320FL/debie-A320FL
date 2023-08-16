@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm débie</h1>
-<h3 align="center">A french data scientist student. I am curious about Android custom ROMs during my free time.</h3>
+<h3 align="center">I am a french data scientist student, curious about Android custom ROMs during my free time.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debie-A320FL&column=4&margin-w=15&margin-h=15" alt="debie-A320FL" /></a> </p>
-	
+
+<h3 align="left">About my GitHub repo:</h3>	
+
 - I share my LineageOS releases in my [OTA repo](https://github.com/debie-A320FL/OTA/releases)
 - If you want to start building yourself, check my [manifest](https://github.com/debie-A320FL/android_manifest_samsung_a3y17lte)
 
