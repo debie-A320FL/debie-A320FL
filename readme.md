@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm débie</h1>
 <h3 align="center">I am a french data scientist student, curious about Android custom ROMs during my free time.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debie-A320FL&column=4&margin-w=15&margin-h=15" alt="debie-A320FL" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debie-A320FL&column=3&margin-w=15&margin-h=15" alt="debie-A320FL" /></a> </p>
 
 <h3 align="left">About my GitHub repo:</h3>	
 
