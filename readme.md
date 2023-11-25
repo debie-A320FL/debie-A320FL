@@ -18,4 +18,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.paypal.com/paypalme/debieXDA"> <img align="left" src="http://amfhr.com/wp-content/uploads/2020/05/paypal.png" height="50" width="
-(0" alt="Sashell" /></a></p><br><br>
+(0" alt="debie-A320FL" /></a></p><br><br>
